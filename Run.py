@@ -11,7 +11,7 @@ syria_video.make_video(title='Syrian Civil War',
                        stills_directory_path='/Users/edcarron/code/journo_play/data/country_vids/stills/Syria',
                        df=syria_df, start_date='2011-03-01', end_date='2011-04-01', time_increment='d'
                        )
-
+change = "test change"
 
 
 
