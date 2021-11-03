@@ -1,0 +1,90 @@
+
+\f0\fs24 \cf0 \{\'93transcripts\'94:[\
+\{title:"Chocolate Cream Cake\'94,\
+text:[\
+\'93This is a \'94,\
+\'93chocolate cream cake. \'94,\
+\'93Cream cakes \'94,\
+\'93always taste nice \'94,\
+\'93but chocolate cream cakes \'93,\
+\'93are the best. \'94,\
+\'93My mum \'93,\
+\'93always makes \'93\
+\'93our special \'93\
+\'93chocolate cream cake \'93,\
+\'93for my birthday. \'93,\
+\'93She knows \'93,\
+\'93that I really like \'93,\
+\'93chocolate cream cakes.\'93\
+]\
+\},\
+\{\
+\'93title\'94: \'93Armour\'94,\
+\'93text\'94:[\
+\'93Long ago, \'93,\
+\'93soldiers \'94,\
+\'93had to wear \'93,\
+\'93heavy armour. \'93,\
+\'93The armour was \'93,\
+\'93to stop them \'93,\
+\'93from getting hurt \'93,\
+\'93by another soldier \'93,\
+\'93with a sword. \'93\
+\'93The armour \'93,\
+\'93could also \'93,\
+\'93stop arrows \'93,\
+\'93from killing them. \'94 ,\
+\'93Armour was \'93,\
+\'93very heavy.\'94\
+]\
+\},\
+\{ "title" : "The Sea",\
+\'93text\'94:[\
+\'93There are \'93,\
+\'93millions of fish \'93,\
+\'93living in the sea. \'93,\
+\'93Some are very big \'93,\
+\'93and some \'93,\
+\'93are very small. \'94,\
+\'93This fish \'93,\
+\'93is called \'93,\
+\'93a shark \'93,\
+\'93and sharks \'93,\
+\'93can be \'93,\
+\'93very dangerous. \'93,\
+\'93Never swim \'93,\
+\'93in the sea \'93,\
+\'93where there \'93,\
+\'93are sharks. \'93,\
+]\
+ \},\
+        \{ "title" : "The World", \
+\'93text\'94: [\
+\'93The World \'93,\
+\'93is round. \'93,\
+\'93it is shaped \'93,\
+\'93like a big ball. \'93,\
+\'93The World is spinning. \'93,\
+\'93It spins  \'93,\
+\'93all the time \'93,\
+\'93and never stops. \'93,\
+\'93It is daytime \'93,\
+\'93when we are \'93,\
+\'93facing the Sun. \'93,\
+\'93It is night \'93,\
+\'93when we are \'93,\
+\'93not facing the Sun. \'94,]\
+\},\
+        \{ "title" : "Stars",\
+\'93text\'94:[\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \'93There are \'93,\
+\'93millions of stars \'93,\
+\'93in the Sky. \'93,\
+\'93You can see them \'93,\
+\'93on very dark nights. \'93,\
+\'93These stars look small \'93,\
+\'93Because \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ]\
+ \},
